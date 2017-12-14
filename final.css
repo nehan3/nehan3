@@ -1,0 +1,29 @@
+html { 
+  background: url(detroit.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Century Gothic', sans-serif;
+}
+.content{
+	width: 490px;
+	height: 550px;
+	background: rgba(0,0,0,.6);
+	padding: 25px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.prof{
+	border-radius: 50%;
+	height: 200px;
+	width: 300 px;
+}
+
+h1{
+	font-weight: normal;
+	font-size: 40px;
+}
